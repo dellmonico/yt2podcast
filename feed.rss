@@ -16,13 +16,5 @@
 		<atom:link href="http://dellmonico.github.io/yt2podcast/feed.rss" rel="self" type="application/rss+xml"/>
 		<copyright><![CDATA[LC]]></copyright>
 		<language><![CDATA[pt-br]]></language>
-<item>
-  <title><![CDATA[Vale a pena Ruby on Rails (feat Akita e Lucas Caton)]]></title>
-  <description><![CDATA[<p>Original video: https://www.youtube.com/watch?v=kxXrWuCshUs</p>]]></description>
-  <link>https://www.youtube.com/watch?v=kxXrWuCshUs</link>
-  <guid isPermaLink="false">yt2podcast-2019-08-13-02-19</guid>
-  <pubDate>Tue, 13 Aug 2019 02:19:02</pubDate>
-  <enclosure url="http://dellmonico.github.io/yt2podcast/episodes/2019-08-13-02-19 - Vale a pena Ruby on Rails (feat Akita e Lucas Caton).m4a" type="audio/mpeg"/>
-</item>
 </channel>
 </rss>
