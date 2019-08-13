@@ -11,7 +11,7 @@
     <description><![CDATA[yt2podcast]]></description>
     <link>https://github.com/dellmonico/yt2podcast</link>
 
-		<lastBuildDate>Tue, 13 Aug 2019 01:41:18</lastBuildDate>
+		<lastBuildDate>Tue, 13 Aug 2019 02:14:34</lastBuildDate>
 
 		<atom:link href="http://dellmonico.github.io/yt2podcast/feed.rss" rel="self" type="application/rss+xml"/>
 		<copyright><![CDATA[LC]]></copyright>
@@ -23,6 +23,14 @@
   <guid isPermaLink="false">yt2podcast-2019-08-13-01-41</guid>
   <pubDate>Tue, 13 Aug 2019 01:41:18</pubDate>
   <enclosure url="http://dellmonico.github.io/yt2podcast/episodes/2019-08-13-01-41 - O que eu devo estudar Vou conseguir emprego.m4a" type="audio/mpeg"/>
+</item>
+<item>
+  <title><![CDATA[Vale a pena Ruby on Rails (feat Akita e Lucas Caton)]]></title>
+  <description><![CDATA[<p>Original video: https://www.youtube.com/watch?v=kxXrWuCshUs</p>]]></description>
+  <link>https://www.youtube.com/watch?v=kxXrWuCshUs</link>
+  <guid isPermaLink="false">yt2podcast-2019-08-13-02-14</guid>
+  <pubDate>Tue, 13 Aug 2019 02:14:34</pubDate>
+  <enclosure url="http://dellmonico.github.io/yt2podcast/episodes/2019-08-13-02-14 - Vale a pena Ruby on Rails (feat Akita e Lucas Caton).m4a" type="audio/mpeg"/>
 </item>
 </channel>
 </rss>
